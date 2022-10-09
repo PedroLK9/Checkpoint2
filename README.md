@@ -1,6 +1,6 @@
 # Checkpoint 2
 
-###Checkpoint 2 é uma API para criação de pedidos, feito em Java, com persistencia em banco de dados H2.
+##Checkpoint 2 é uma API para criação de pedidos, feito em Java, com persistencia em banco de dados H2.
 
 
 ## Features
